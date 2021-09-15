@@ -1,14 +1,13 @@
 ---
 title: "Growth Record of Indian Economy"
-author: "pravesh"
-date: "2020-09-11"
 output:  
   ioslides_presentation:
     smaller: true
+    logo: logo.png
 ---
 
 ## Reference
-[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](slides/rakeshmohan.pdf) by **Rakesh Mohan, 2008**, Economic and Political Weekly.
+[Growth Record of the Indian Economy, 1950-2008: A Story of Sustained Savings and Investment](3.growth-record-of-indian-economy/rakesh-mohan.pdf) by **Rakesh Mohan, 2008**, Economic and Political Weekly.
 
 
 
@@ -217,7 +216,7 @@ Barring the decade of the 1970s, the incremental capital output ratio has hovere
 
 ---
 
-[Economic terms used in the text](slides/EconomicTerms.docx)
+[Economic terms used in the text](3.growth-record-of-indian-economy/EconomicTerms.docx)
 
 
  

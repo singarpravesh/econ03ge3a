@@ -1,0 +1,8 @@
+navbar: 
+  title: ECON03GE3A
+  right:
+  - text: Lecture Materials
+    href: content.html
+output:
+  html_document:
+    theme: flatly

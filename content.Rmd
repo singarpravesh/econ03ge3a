@@ -5,6 +5,6 @@ output:
     logo: logo.png
 ---
 
-[1. The Colonial Legacy](content/1.TheColonialLegacy.html){target="_blank"} <br>
-[2. Growth and Distributional Regimes](content/2.GrowthAndDistributionRegimes.html){target="_blank"} <br>
-[3. Growt Record of Indian Economy](3.Gr)
+## [1. The Colonial Legacy](content/1.TheColonialLegacy.html){target="_blank"} 
+## [2. Growth and Distributional Regimes](content/2.GrowthAndDistributionRegimes.html){target="_blank"} <br>
+## [3. Growt Record of Indian Economy](content/3.growth-record-of-indian-economy.html){target="_blank"}

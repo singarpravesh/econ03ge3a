@@ -5,8 +5,13 @@ output:
     logo: logo.png
 ---
 
+
+---
+
 ## Course Description
 Using appropriate analytical frameworks, this course reviews major trends in economic indicators and policy debates in India in the post-Independence period, with particular emphasis on paradigm shifts and turning points. 
+
+---
 
 ## Syllabus
 1. Economic Development since Independence

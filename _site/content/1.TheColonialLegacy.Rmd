@@ -3,7 +3,9 @@ title: "ECON03GE3A"
 subtitle: "The Colonial Legacy"
 author: ""
 date: "2021-08-20"
-output: ioslides_presentation
+output: 
+  ioslides_presentation:
+    logo: logo.png
 ---
 
 ```{r setup, include=FALSE}

@@ -5,5 +5,5 @@ date: "15/09/2021"
 output: html_document
 ---
 
-[1. The Colonial Legacy](content/1.TheColonialLegacy.html){target="_blank"}
+[1. The Colonial Legacy](content/1.TheColonialLegacy.html){target="_blank"} <br>
 [2. Growht and Distributional Regimes](content/2.GrowthAndDistributionRegimes.html){target="_blank"}

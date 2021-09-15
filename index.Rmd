@@ -1,30 +1,40 @@
 ---
-title: "Untitled"
-author: "pravesh"
-date: "15/09/2021"
-output: html_document
+title: "Indian Economy I"
+output: 
+  html_document:
+    logo: logo.png
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Course Description
+Using appropriate analytical frameworks, this course reviews major trends in economic indicators and policy debates in India in the post-Independence period, with particular emphasis on paradigm shifts and turning points. 
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Syllabus
+1. Economic Development since Independence
+  a. Major features of the economy at independence; growth and development under different policy regimes; regional disparities in growth rates
+  b. Sector-wise growth profile and changes of its contribution in GDP, structural change in employment.
+  c. Five Years Plans: Objectives, sources of plan financing, an assessment of performance of different plans
+  d. Trend of savings and capital formation; measures of mobilization of domestic savings; relation between savings rate, growth rate and ICOR.
+  
+2. Population and Human Development
+  a. Demographic transition theory and dynamics of population in India; age, sex composition and development
+issues.
+b. Education – literacy rate, enrollment ratio- gender discrimination in enrolment – trend in public expenditure
+for education; right to education and education policies
+c. Health as an indicator of human development, life expectancy, child health, infant mortality; nature, causes
+and consequences of malnutrition; Trend in public expenditure for health and hygiene; mid-day meal
+programme and other policies of child and family welfare.
+d. Human development index and progress of human development; HDI for several states over time.
+e. Population policy; demographic dividend
+3. Growth and Distribution
+a. Different concepts of poverty and its measures; different estimates of poverty; recent controversy of poverty
+reduction; economic reforms and poverty in India; assessment of the poverty alleviation policies since
+independence.
+b. Growth and inequality; trend of nature and causes of income inequality in India; rural urban disparity in
+income and wealth inequality; public measures to combat against inequality in income and wealth; growth of
+large industrial houses and middle class.
+c. Estimates of unemployment and its trend; unemployment rates and growth rates; changing dimensions of
+unemployment; Government plans and programs for reducing unemployment. Employment Guarantee Act-
+2005
+4. International Comparisons
+Comparison of India with other countries with reference to GNI and its inequality; GDP and employment
+share; income poverty; multidimensional poverty; Human development and other indicators

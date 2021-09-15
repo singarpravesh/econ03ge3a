@@ -1,5 +1,6 @@
 ---
 title: "Five Year Plans in India"
+subtitile: ECON03GE3A
 output:  
   ioslides_presentation:
     smaller: true

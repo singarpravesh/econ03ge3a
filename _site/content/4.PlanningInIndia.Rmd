@@ -140,6 +140,9 @@ output:
 - Growth declined to 5%
 - Vision: Faster, Sustainable and more inclusive growth
 
+# The Planning Experience in India
+
+
 ## Reference
 
 Mehrotra, S and Guichard, S (2020) *Plannning in the 20th Century and Beyond: India's Planning Commission and the NITI Aayog* Cambridge University Press 
@@ -170,4 +173,91 @@ Chapter 13 [Plan, But Do Not Over Plan: Lessons for NITI Aayog](4.PlanningInIndi
   - Reduce imports
 - Would derail the strategy of increasing savings and long-run productivity.
 
+---
 
+- The 3rd FYP introduced Import Substitution Policy
+- Partly political and partly technocratic.
+- Received considerable attention and acclaim from politicians, academicians, and policymakers.
+- 2 important developments:
+  - Decentralised Planning
+  - Detailed sectoral planning
+- The 4th FYP was implemented amidst droughts, famines, and wars.
+- Food security at the forefront of planning.
+- Sustained industrialisation not possible without wage-goods.
+- A third constrained introduced: wage-goods
+
+
+---
+
+- The 5th FYP recognised that growth and industrialisation alone would not eradicate poverty.
+- Echoed in the slogan *Garibi Hatao*
+- An extra element to the objectives of the plan.
+  - Concept of *minimum needs*
+  - Directed anti-poverty programmes.
+- The 6th FYP recognised the successess of the Mahalanobis model
+  - The savings constraint was now no longer binding.
+  - Excess capacities created
+- A shift in the pattern of industrialisation.
+- Shift towards a more technocratic planning.
+
+
+---
+
+- The 7th FYP was an *infrastructure* plan.
+- Shift to liberal trading regimes.
+- Strategic planning by the political leadership
+- The 8th FYP saw the economic crisis of 1991.
+- Market-oriented planning
+- Economy performed well
+- The growth momentum could not be carried to the 9th FYP.
+- 9th FYP recognised the importance of private investment.
+- Added a fourth constraint: the financial constraint.
+  - A weak financial sector can deprive the economy of optimal utilisation of the resources.
+- Fiscal policy brought under the planning ambit.
+
+
+---
+
+
+- The Fifth Pay Commission weakened investment.
+- Agriculture failure + Tight monetary policy also weakened investment
+- The 10th FYP was a visionary plan.
+- Emerging situation of demographic pattern
+ - Steady reduction in the rate of growth of population in India, but a high growth of working age population.
+- Challenges: 
+  - Provide employment opportunities to this fast growing population.
+  - Address the spatial pattern of creating jobs.
+- Strong public intervention required in the infrastructure.
+
+
+
+---
+
+
+- Insights from the 10th FYP seen in the 11th FYP
+ - Inclusive growth
+ - Unemployment and infrastructure
+ - Human resources
+- Growth 9%
+  - Shortages of *skills*.
+- The Global Financial Crisis 2008 & Eurozone Crisis 2011
+- Drought in 2009
+- 12th FYP: Lost growth momentum
+- Slowing down of corporate investment
+-  Efforts to revive private investment sentiments
+- National Institution for Transforming India (2015)
+
+
+---
+
+- Mandate of the NITI Aayog
+  - Framing the vision by the technocrats
+- Indian experience
+  - Framing vision by the political class have been relatively successful.
+  - The 2nd to 5th FYPS and the 10th FYP have had political visions (implemented at the technocrat levels).
+  - No good strategic planning can occur in the absence of a challenging and well articulated vision.
+- 3 critical characteristics of a vision statement:
+  - Capture the imagination of the nation.
+  - Full political commitment.
+  - Thinking beyond mere extrapolations.
+- On this count, NITI has been started on a wrong foot.

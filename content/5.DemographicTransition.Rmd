@@ -3,6 +3,7 @@ title: "Demographic Transition in India"
 subtitle: ECON03GE3A
 output:  
   ioslides_presentation:
+    css: mycss.css
     smaller: true
     logo: logo.png
 editor_options: 
@@ -15,6 +16,8 @@ editor_options:
 
 
 - K.S. James: Glorifying Malthus (2008), Current Debate on Demographic Dividend in India, Economic and Political Weekly, June 21, available at http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.546.5465&rep=rep1&type=pdf
+
+- Economic Survey 2018-19 Volume 1 Chapter 7 [India's Demography at 2040](5.DemographicTransition/esch7.pdf)
 
 ## Demography
 - Demography is *“the study of populations, especially with reference to size and density, fertility, mortality, growth, age distribution, migration, and vital statistics and the interaction of all these with social and economic conditions”*
@@ -66,3 +69,173 @@ population.
 - [Population Pyramid for India](https://www.populationpyramid.net/india/)
 
 <iframe width="560" height="315" src="https://www.populationpyramid.net/india/" title="Population Pyramid for India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+# Demorgaphic dividend in India
+
+---
+
+- Demographic dividend: *The phase of the demographic transition where the proportion of the working age population will be one of the highest.*
+- Expected to be a shorter phase.
+- Low dependency rate.
+
+<blockquote>
+The young and the old tend to consume more output than they generate, unlike working age individuals, who contribute to the output and savings tend to be more commensurate with their consumption -  [Bloom, Canning, and Malanay 2000].
+</blockquote>
+
+- Outcomes depend on the ability of the countries to take advantage of this phase.
+- Decline in fertility $\rightarrow$ benefits at the household levels.
+
+
+## Demographic Rationale for Economic Change
+
+- Age structure transition leads to growth in several ways:
+  - Increased Savings
+  - Decline in fertility
+  - More investment in health
+  - Government expenditure diverted to productive ones.
+
+
+
+---
+
+![](5.DemographicTransition/table1.PNG)
+
+---
+
+![](5.DemographicTransition/table2.PNG)
+
+---
+
+![](5.DemographicTransition/fig1.PNG)
+
+
+---
+
+![](5.DemographicTransition/fig2.PNG)
+
+---
+
+![](5.DemographicTransition/fig3.PNG)
+
+
+---
+
+![](5.DemographicTransition/fig4.PNG)
+
+
+---
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+tribble(
+  ~State, ~`1981`, ~`1991`, ~ `2001`,
+'Andhra Pradesh', 52.21, 52.56, 51.89,
+'Bihar', 22.64, 25.42, 35.04,
+'Gujarat', 33.23, 41.33, 42.56,
+'Haryana' ,17.78, 18.56, 43.60,
+'Karnataka', 40.66, 46.19, 47.80,
+'Kerala' ,26.63, 24.04, 22.45,
+'Madhya Pradesh', 48.87 ,52.61, 46.93,
+'Maharashtra' ,49.89, 53.69, 56.93,
+'Orissa' ,31.73 ,32.80, 37.70,
+'Punjab', 9.77, 7.01, 28.66,
+'Rajasthan', 35.57, 46.05, 54.99,
+'Tamil Nadu' ,39.78, 43.99 ,44.26,
+'Uttar Pradesh' ,13.39, 20.76, 28.28,
+'West Bengal' ,13.38, 18.18, 28.13,
+'India', 31.85, 35.86, 40.02
+) %>% 
+  pivot_longer(cols = `1981`:`2001`, names_to = "Year", values_to = "FLFP") %>% 
+  ggplot() +
+  geom_bar(aes(x = Year, y= FLFP), stat="identity")+
+  facet_wrap(~State)+
+  labs(title = "Female labour Force participation\nin Major States (15-59 age group,\n1981-2001, in %)")
+```
+
+
+
+---
+
+![](5.DemographicTransition/Figure1.PNG)
+
+---
+
+![](5.DemographicTransition/Figure2.PNG)
+
+---
+
+![](5.DemographicTransition/Figure3.PNG)
+
+
+---
+
+![](5.DemographicTransition/Figure4.PNG)
+
+
+---
+
+![](5.DemographicTransition/Figure5.PNG)
+
+---
+
+![](5.DemographicTransition/Figure6.PNG)
+
+---
+
+![](5.DemographicTransition/esTable1.PNG)
+
+---
+
+![](5.DemographicTransition/esTable2.PNG)
+
+---
+
+![](5.DemographicTransition/esTable3.PNG)
+
+---
+
+![](5.DemographicTransition/esTable4.PNG)
+
+---
+
+![](5.DemographicTransition/esTable5.PNG)
+
+---
+
+![](5.DemographicTransition/esTable6.PNG)
+
+---
+
+![](5.DemographicTransition/Figure7.PNG){width=700px}
+
+---
+
+![](5.DemographicTransition/Figure9.PNG){width=300px}
+
+---
+
+![](5.DemographicTransition/Figure10.PNG){width=700px}
+
+---
+
+![](5.DemographicTransition/Figure11.PNG){width=700px}
+
+---
+
+![](5.DemographicTransition/Figure12.PNG){width=300px}
+
+---
+
+![](5.DemographicTransition/Figure13.PNG){width=700px}
+
+---
+
+![](5.DemographicTransition/esTable7.PNG){width=300px}
+
+---
+
+![](5.DemographicTransition/Figure14.PNG){width=700px}
+

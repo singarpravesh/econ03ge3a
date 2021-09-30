@@ -255,4 +255,5 @@ tibble(
 - Dilemma of creating specialists or education for specific jobs.
 - Other challanges.
 
+## Impact of COVID-19 pandemic on School Education
 

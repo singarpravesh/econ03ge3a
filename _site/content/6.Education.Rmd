@@ -12,6 +12,7 @@ editor_options:
 
 ## References
 - Chapter 5: [The Centrality of Education](6.Education/sen.pdf), in An Uncertain Glory: India and its Contradictions, by Jean Dreze and Amartya Sen, 2013.
+- The [National Education Policy 2020](6.Education/nep.pdf) https://doi.org/10.1002/pa.2500 Journal of Public Affairs (2020)
 
 # The Centrality of Education
 
@@ -164,4 +165,94 @@ Note: PISA is a worldwide study conducted by Organisation for Economic Cooperati
 - Better system of pupil evaluation and school evaluation required.
 
 
-  
+# National Education Policy 2020
+
+## Highlights
+1. Insights into the various contours of National Education Policy 2020 and how it aligns with the UN Sustainable Development Goals (SDGs) 2030 targets.
+2. India's role in meeting the targets
+3. Major loopholes and execution challanges to be addressed to foster *quality education for all*.
+
+## Introduction
+- Article 26, Declaration on Human Rights of United Nations (1948)
+<blockquote>
+Education must be free and compulsory at least in the elementary stages to strengthen and protect the freedom of people.
+</blockquote>
+- Right to Education Act 2009
+- 25% reservation to the marginal sections of the society in India.
+- In 2019 more than 30% of unemployed population comprised of undergraduates and post-graduates.
+- Previous NEPs: 1968, 1986.
+
+[Trend of Expenditure on Education in India](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?end=2013&locations=IN&start=1997&type=points&view=chart) **The World Bank Data**
+
+
+## Aligning with UN-SDGs
+- [The 2030 Agenda for Sustainable Development](https://sdgs.un.org/goals)
+- SDG4: Quality Education
+<blockquote>
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
+</blockquote>
+- NEP 2020 to contextualise SDG4
+- Structural reforms for inclusive and quality education:
+  1. Education in local language
+  2. Socially cohesive environment at schools
+  3. Focus to socially and economically disadvantaged regions and groups.
+
+[UP school makes kids wash their own utensils, keeps dishes of SC/ST students separately](https://www.indiatoday.in/india/story/up-mainpuri-school-makes-students-wash-their-utensils-1857746-2021-09-27) India Today report on 27 September 2021.
+
+---
+
+- Emphasis on high-quality learning
+- SDG4.3 National Educational Technology Forum
+<iframe width="560" height="315" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1288725928101597185&lang=en&origin=https%3A%2F%2Fwww.ndtv.com%2Feducation%2Fnew-education-policy-moots-formation-of-technology-forum&sessionId=e2347025877a54ec16c114a6f1626ee5aece6c99&siteScreenName=ndtv&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px" title="Population Pyramid for India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+- SDG4.4: Enhance relevant skills for financial success 
+  - Increase enrollment in higher education
+  - Internationalisation of higher education
+  - [Academic bank of credits](https://www.abc.gov.in/about.php) 
+    - facilitate the academic mobility of students with the freedom to study across the Higher Education Institutions in the country with an appropriate "credit transfer" mechanism from one programme to another, leading to attain a Degree/ Diploma/PG-diploma, etc.
+    
+## Major inteventions
+- Ministry of Human Resource and Development renamed to Ministry of Education.
+- Top universities of the world will be allowed to open campuses and operate in India
+- UGC and AICTE to be replaced by a single body the Higher Education Commission of India (HECI)
+  - A single regulator
+  - Other verticies for regulation: National Accreditation Council (NAC), the Higher Education Grants Council (HEGC), General Education Council (GEC) to carry out functions of accreditation, funding, and academic standard setting.
+  - Enable a lighter and more transparent regulation as the objectives shall not be combined with its funding responsibilities.
+  - '10+2' structure to be replaced with '5+3+4+4'
+    - Age 3-8: foundational stage
+    - Age 8-11: prepratory stage
+    - Age 11-14: middle stage
+    - Age 14-18: secondary stage
+
+---
+
+- Setting up of National Research Foundation
+  - Promotion of research and innovation in higher education. Read the draft [here](https://static.psa.gov.in/psa-prod/2020-11/English%20NRF.pdf)
+- Setting up of Multidisciplinary Education and Research Universities on the lines of IITs and IIMs.
+- Introduction of 4 year multidisciplinary undergraduate programme with multiple exit and entry points.
+  - Accommodate students to various environment scenarios.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse); library(kableExtra)
+tibble(
+  Year = 1:5,
+  Certification = c("Certificate", "Diploma", "Bachelor Degree", "Research", "Masters Degree")) %>% 
+  kable(align = 'c') %>% 
+    kable_styling(bootstrap_options = c("striped", "hover"), full_width = NULL, position = "center")
+```
+  - Students can exit and join industry and return back.
+- Public investment on education to raised to 6% of GDP
+- Target: 100% Gross Enrollment Ratio in secondary and 50% GER in higher education by 2035.
+
+## Challanges
+- Public expenditure on education (62nd rank) [Data](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?end=2016&locations=IN-JP-BD-PK-US-KE-KR-BT&start=1999&view=chart)
+- US, China, Bhutan, Korea and Kenya are doing better than us.
+- Kothari commission had recommended 6% of GDP in 1964.
+- Very long term targets 
+- Dilemma of creating specialists or education for specific jobs.
+- Other challanges.
+
+

@@ -253,6 +253,22 @@ tibble(
 - Kothari commission had recommended 6% of GDP in 1964.
 - Very long term targets 
 - Dilemma of creating specialists or education for specific jobs.
-- Other challanges.
+- Other challenges.
 
+
+# Other education policies
+
+---
+
+- District Primary Education  Programme (DPEP) 1993
+  - Universal primary education
+  - Funding agencies: World Bank and UNICEF along with the Centre and the States.
+- Sarva Shiksha Abhiyan (SSA) 2001
+  - Make free and compulsory education to childre aged 6-14.
+- Right to Education Act (RTE) 2010
+  - Education as a fundamental right of evry child
+- Rashtriya Uchchatar Shiksha Abhiyan (RUSA) 2013
+  - Provide strategic funding to higher education institutions
+  - Target to raise the enrollment ratio to 32% by 2017.
+  
 

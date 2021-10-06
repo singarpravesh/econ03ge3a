@@ -1,6 +1,7 @@
 ---
 title: "Demographic Transition in India"
 subtitle: ECON03GE3A
+author: Pravesh Tamang
 output:  
   ioslides_presentation:
     css: mycss.css

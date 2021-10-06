@@ -15,3 +15,5 @@ output:
 ### [4. Five Year Plans in India](content/4.PlanningInIndia.html){target="_blank"}
 ### [5. Demographic Transition](content/5.DemographicTransition.html){target="_blank"}
 ### [6. Education](content/6.Education.html){target="_blank}
+### [7. Health](content/7.Health.html){target="_blank}
+

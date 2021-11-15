@@ -172,3 +172,80 @@ dplyr::tibble(Year = c(1976, 1996, 2006),
 
 ![](7.Health/baru_fig6.PNG)
 
+## Factors affecting equity in access to health services
+- The five key health service factors
+  1. Insufficient investments in public sector
+  1. Variable quality of care in public and private sectors.
+  1. Unregulated commercialisation and rising costs
+  1. Health sector reforms
+  1. Lack of accountability in the public and private sectors
+  
+## Insufficient investment
+- Low public investment over the last six decades
+- Low levels of per capita expenditure on health compared to other countries. [Compare using the world bank data](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?locations=IN-CN-GH-PK)
+- Large variations in financing across states
+- Expansion in the private sector.
+
+## Unregulated commercialisation and rising costs
+- Medical technology and education provisioning has been unregulated.
+- The primary level  is the largest segment of the private sector that is unregulated.
+- At the secondary level few regulations are in place - e.g. systems of accreditation are put in place.
+  - The Clinical Establishment (Registration and Regulation) Bill 2007 seeks to regulate the private sector health institutions.
+- Without proper regulation the cost of healthcare in the private sector is uncontrolled.
+   - For e.g. a normal delivery in a government hospital costs INR 2100 whereas it can cost INR 15000 in a private hospital. For a c-section, it can be INR 5500 in a govt hospital and INR 33000 in a private hospital. Source: [Hindustan Times Report, July 2020](https://www.hindustantimes.com/india-news/significant-rise-in-hospital-deliveries/story-kJBaAwYQo6Gc6rWz6RxZsM.html)
+
+## The health sector reforms
+- Health sector reforms were initiated as a part of the Structural Adjustment Programme of the World Bank in 1991.
+- Some important measures adopted
+  - Introduction of user fees.
+  - Contracting out of clinical and ancillary services to the private sector.
+  - Decentralisation and public-private partnerships.
+- The introduction if user fees have tended to exclude the poorest.
+- International evidence also points at the same direction - introduction of even a small user fee can exclude a poor from utilising health services.
+
+## Variable quality of care in public and private sectors.
+- Common complaints against public care cited in NSSO (2006) and NFHS (1998-99 and 2005-06)
+
+<blockquote>
+"Not satisfied wit the medical treatment." <br>
+"Lack of availability of services" <br>
+"Long waiting time" <br>
+"Poor quality of care" <br>
+</blockquote>
+  
+- Quality of health services are mainly affected by
+  - technical competence
+  - accessibility to services
+  - interpersonal relations
+  - presence of adequate drugs, supplies, staff and medical amenities.
+  
+---
+
+- People generally assume that private sector offers superior quality of service
+- This cannot be generalised because of heterogenity of facilities, personnel, and their practices
+  - In Delhi, both private and public practitioners are more skilled and knowledgeable in the wealthier areas as compared to the poorer areas (Das and Hammer, 2007).
+  - In a secondary level study in Chennai, a strong tendency to over-provide care depending upon the patients ability to pay (Muraleedharan, 1999).
+  - In rural Maharashtra, only 55% of private sector had registration, only 38% maintained any kind of records, and 30% were run by doctors not trained in allopathic system of medicine.
+  
+## Lack of accountability in public and private sectors.
+- Some key areas in public sector that lack accountability are:
+  - Absenteeism of providers
+  - Indifferent behaviour of service providers and corruption
+- In the private sector
+  - Overuse and misuse of technology
+  - Unethical practices.
+- Corruption in public health services
+  - Bribes demanded for admission and treatment
+  - Corruption in recruitment, promotion and transfer of personnel.
+- Corruption in private sector
+  - Unethical practices
+    - Payment of commissions
+
+## Equity enhancing initiatives
+- The Health Policy 2002
+- The 10th and the 11th Plan Documents
+- Civil Society organisations
+- All India Drug Action Network
+- Jan Swasthya Abhiyan
+- **Jan Sunwais**
+

@@ -16,4 +16,5 @@ output:
 ### [5. Demographic Transition](content/5.DemographicTransition.html){target="_blank"}
 ### [6. Education](content/6.Education.html){target="_blank"}
 ### [7. Health](content/7.Health.html){target="_blank"}
+### [8. Human Development and India](content/8.HDI.html){target="_blank"}
 

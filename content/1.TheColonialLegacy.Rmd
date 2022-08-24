@@ -2,7 +2,6 @@
 title: "ECON03GE3A"  
 subtitle: "The Colonial Legacy"
 author: ""
-date: "2021-08-20"
 output: 
   ioslides_presentation:
     logo: logo.png
@@ -14,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Reference 
 
-The Colonial Legacy 
+[The Colonial Legacy](https://www.google.co.in/books/edition/_/DgESBQAAQBAJ?hl=en&gbpv=1) 
 
 Chandra (2004)
 

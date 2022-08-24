@@ -8,7 +8,7 @@ output:
 
 ---
 
-### [Student list](https://coe.presiuniv.ac.in/coepresi/cbcsodd2021/fetchdata.php?deptVal=&semVal=&orderby=student_name&geVal=ECON03GE3A)
+### [Student list 2022](https://coe.presiuniv.ac.in/coepresi/cbcsodd2021/fetchdata.php?deptVal=&semVal=&orderby=student_name&geVal=ECON03GE3A)
 
 ### [1. The Colonial Legacy](content/1.TheColonialLegacy.html){target="_blank"} 
 ### [2. Growth and Distributional Regimes](content/2.GrowthAndDistributionRegimes.html){target="_blank"} <br>

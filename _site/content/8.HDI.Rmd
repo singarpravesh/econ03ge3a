@@ -108,7 +108,7 @@ $\text{Dimension Index} = \frac{\text{actual value}-\text{minimum value}}{\text{
 
 ---
 
-![]{(8.HDI/ihdi.png){width=800px}
+![](8.HDI/ihdi.png){width=800px}
 
 - Data Sources
   - HDI depends on country level aggregates

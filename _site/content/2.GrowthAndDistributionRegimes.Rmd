@@ -209,7 +209,138 @@ Ref for events: [Inflation In India: Status and Issues by Y.V. Reddy](https://rb
   - Decrease dependence on external powers.
 - 1973: Positive CAD in India for the first time.
 
+---
 
+*FERA: Foreign Exchange Regulation Act, 1973*
+
+- FERA was a crucial piece of legislation enacted by the Indian government to <u>regulate foreign exchange transactions and control the outflow of foreign currency from the country</u>.
+
+- Its implementation aimed to <u>stabilize the Indian economy</u>, which was facing challenges in managing foreign exchange reserves and preventing capital flight.
+
+- FERA played a significant role in India's economic policies until it was eventually replaced by FEMA in 1998.
+
+---
+
+**Historical Context**
+
+*Pre-FERA Economic Challenges*
+
+- Before the enactment of FERA, India struggled with <u>balance of payments issues and a shortage of foreign exchange reserves.</u>
+- There was an urgent need to <u>curb the illegal transfer of foreign currency and control capital flight</u>, which was affecting the stability of the Indian rupee.
+
+
+*Example: Balance of Payments Crisis*
+
+- In the late 1960s, India faced a severe balance of payments crisis due to <u>rising import bills and a decline in exports.</u>
+- The crisis led to a substantial <u>depletion of foreign exchange reserves</u>, prompting the need for <u>stricter foreign exchange regulations.</u>
+
+
+---
+
+**Objectives of FERA**
+
+*Controlling Foreign Exchange Transactions*
+
+- FERA aimed to control and regulate foreign exchange transactions to ensure stability in the foreign exchange market.
+- It authorized the government to impose restrictions on the movement of foreign currency in and out of India.
+
+*Conserving Foreign Exchange*
+
+- The conservation of foreign exchange was a critical objective of FERA. The act sought to conserve India's limited foreign exchange reserves for essential imports and development projects.
+
+## {.smaller}
+
+**Key Provisions of FERA**
+
+*Regulation of Foreign Exchange Transactions*
+
+- FERA empowered the Reserve Bank of India (RBI) to <u>regulate all foreign exchange transactions</u>, including the conversion of Indian currency into foreign currency and vice versa.
+- Any person or entity engaging in such transactions had to comply with RBI's regulations.
+
+*Control over Foreign Securities*
+
+- The act prohibited Indian residents from holding foreign securities without RBI's permission.
+- It aimed to prevent the outflow of capital through investments in foreign financial instruments.
+
+*Restrictions on Dealings in Foreign Exchange*
+
+- FERA imposed restrictions on the possession and utilization of foreign currency within India.
+- Non-compliance with these regulations could lead to penalties or legal actions.
+
+---
+
+**Amendments to FERA**
+
+*1976 Amendment*
+
+- The 1976 amendment to FERA strengthened the penalties for violations and introduced stricter enforcement measures.
+- This amendment addressed the need for more effective deterrents against illegal foreign exchange activities.
+
+*1993 Amendment*
+
+- The 1993 amendment allowed for compounding of certain offenses, enabling offenders to settle their cases by paying a compounding fee.
+- This move aimed to reduce the burden on courts and expedite the resolution of cases.
+
+---
+
+**Repeal of FERA**
+
+*Reasons for Repeal*
+
+- FERA faced criticism for being a <u>draconian law</u>, leading to the misuse of its provisions by authorities.
+- The government recognized the <u>need for more liberalized foreign exchange regulations</u> to attract foreign investments and promote economic growth.
+
+*Introduction of FEMA*
+
+- In 1998, FERA was repealed, and the Foreign Exchange Management Act (FEMA) was introduced to replace it.
+- FEMA marked a significant shift towards a more modern and market-oriented approach to foreign exchange regulations.
+
+---
+
+**Foreign Exchange Management Act (FEMA)**
+
+*Objectives and Scope*
+
+- FEMA aimed to facilitate external trade, promote foreign investments, and maintain orderly foreign exchange markets.
+- It streamlined and simplified foreign exchange regulations while aligning them with economic reforms.
+
+**Comparison: FERA vs. FEMA**
+
+*Differences and Improvements*
+
+- FEMA introduced a more liberalized and business-friendly approach to foreign exchange regulations compared to the stringent provisions of FERA.
+- The act emphasized promoting economic growth and easing foreign exchange transactions for individuals and businesses.
+
+---
+
+**Impact on Indian Economy**
+
+*FERA's Impact*
+
+- FERA played a crucial role in <u>curbing illegal foreign exchange activities</u> during its existence.
+- However, its stringent provisions <u>sometimes hindered foreign investments</u> and discouraged foreign businesses from operating in India.
+
+*FEMA's Impact*
+
+- After the introduction of FEMA, India witnessed an <u>increase in foreign investments</u> and a boost in international trade.
+- The liberalized foreign exchange regime under FEMA contributed to India's economic growth and integration into the global economy.
+
+---
+
+**Case Studies**
+
+*Case 1: Harshad Mehta Scam*
+
+- The infamous Harshad Mehta stock market scam ([1992 Indian stock market scam](https://en.wikipedia.org/wiki/1992_Indian_stock_market_scam)) in the early 1990s involved the violation of FERA provisions.
+- Mehta used loopholes in the system to manipulate the stock market and divert funds illegally.
+
+---
+
+*Case 2: Hawala Transactions*
+
+- FERA was used to prosecute individuals involved in illegal hawala transactions, where money was transferred through informal networks without proper documentation.
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/cb/Hawala.png){width=50%}
 
 ---
 
@@ -226,16 +357,75 @@ Ref for events: [Inflation In India: Status and Issues by Y.V. Reddy](https://rb
 **Green revolution and populism (1967-80): Class dynamics and distributional effects**
 
 - *Rural rich* emerged $\rightarrow$ increased powers $\rightarrow$ formation of Interest Groups (politically motivated).
-  - For instance Lok Dal (led by Charan Singh) that would go on to dethrone Congress in 1978.
+  - For instance Lok Dal (led by [Charan Singh](https://en.wikipedia.org/wiki/Charan_Singh)) that would go on to dethrone Congress in 1978.
 
 - Subsidies $\uparrow$ $\rightarrow$ public investment in industries $\downarrow$
 - Green revolution $\rightarrow$ rural inequality
-  - Compensatory policies: *Garibi hatao*
-- 1070s:
+  - Compensatory policies: [Garibi hatao](https://indiragandhi.in/en/timeline/index/garibi-hatao-timeline)
+- 1970s:
   - PDS
   - IRDP
 - Poverty declined from 50% to 40%
 
+---
+
+<html>
+<head>
+<style>
+  /* Add CSS style for the element that requires a scrollbar */
+  .scroll-box {
+    width: 800px;
+    height: 600px;
+    overflow: scroll; /* or "auto" if you want the scrollbar to appear only when needed */
+    padding: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="scroll-box">
+
+**Public Distribution System (PDS) in India - An Overview**
+
+
+- The Public Distribution System (PDS) in India is a government-led initiative aimed at ensuring food security and reducing hunger by providing subsidized food grains to eligible beneficiaries.
+- PDS plays a crucial role in addressing food inequality and poverty in the country.
+
+
+**Historical Context**
+
+- The PDS was introduced in India in the 1940s during the Second World War to distribute food grains efficiently and equitably.
+- Over the years, the system has undergone several reforms and changes to make it more effective and inclusive.
+
+**Key Objectives of PDS**
+
+- Ensure Food Security: The primary goal of the PDS is to provide subsidized food grains to vulnerable sections of the population, especially those below the poverty line.
+- Price Stabilization: PDS helps stabilize food prices in the market by procuring food grains from farmers at minimum support prices (MSP) and distributing them at subsidized rates.
+- Poverty Alleviation: By providing affordable food grains, PDS aims to alleviate poverty and reduce hunger.
+
+**Components of PDS**
+
+- Targeted Public Distribution: PDS categorizes beneficiaries into priority and non-priority groups to ensure more focused assistance for the neediest.
+- Fair Price Shops (FPS): The distribution of food grains happens through a network of FPS, which are authorized retail outlets.
+- Food Grains Distribution: Rice, wheat, and other essential commodities are distributed through the PDS.
+
+**Identification of Beneficiaries**
+
+- BPL (Below Poverty Line) and AAY (Antyodaya Anna Yojana) cards are used to identify eligible beneficiaries.
+- Recently, some states have adopted the SECC (Socio-Economic Caste Census) data for more accurate targeting.
+
+
+**Recent Reforms and Developments**
+
+- Aadhaar Integration: Linking PDS with Aadhaar (unique identification number) has helped reduce leakages and streamline beneficiary identification.
+- End-to-End Computerization: Implementing technology-driven solutions has improved transparency and accountability.
+- One Nation, One Ration Card (ONORC): The ONORC scheme allows beneficiaries to access PDS benefits across states, providing greater flexibility.
+
+**Impact of PDS**
+
+- Despite challenges, PDS has played a significant role in reducing hunger and improving food security for millions of Indians.
+- It acts as a safety net for vulnerable populations during times of economic hardship and natural disasters.
+
+</div>
 
 ---
 

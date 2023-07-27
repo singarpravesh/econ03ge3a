@@ -1,5 +1,7 @@
 name: "Indian Economy I"
-navbar: 
+navbar:
+  left:
+  - text: Indian Economy I
   right:
   - text: Lecture Materials
     href: content.html

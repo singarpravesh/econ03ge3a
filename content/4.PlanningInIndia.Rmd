@@ -21,7 +21,7 @@ output:
   - 1938: National Planning Committee
   - 1944: The Bombay Plan and the Gandhian Plan
   - 1945: People's Plan
-  - 1059: Sarvodaya Plan
+  - 1950: Sarvodaya Plan
 
 ---
 
@@ -82,7 +82,7 @@ output:
 - Target: 5.7% Achieved: 3.3%
 - Objectives:   
   - Growth with stability
-  - Progressive achievement if self reliance.
+  - Progressive achievement of self reliance.
 - Emphasis on agriculture $\rightarrow$ other sectors.
 - Implementation of Family Planning Programmes
 

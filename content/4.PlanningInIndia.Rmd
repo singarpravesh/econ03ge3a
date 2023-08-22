@@ -9,7 +9,8 @@ output:
 
 ## Reference
 
-- http://mospi.nic.in/sites/default/files/Statistical_year_book_india_chapters/ch7.pdf
+- http://mospi.gov.in/sites/default/files/Statistical_year_book_india_chapters/ch7.pdf
+- [Ch 7](4.PlanningInIndia/ch7.pdf)
 
 
 ## History of Planning 

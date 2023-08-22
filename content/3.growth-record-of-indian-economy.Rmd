@@ -36,7 +36,7 @@ output:
 ---
 
 - Growth impulses gathered further momentum since the early 1990s.
-- There was a loss of growth momentum during the latter half of the 90s due to the onset of east Asian financial crisis which had a setback on the fiscal correction process, quality of fiscal adjustment, slowdown in agricultural growth affected by lower than normal monsoon years, and some slackening in the pace of structural reforms.
+- There was a loss of growth momentum during the latter half of the 90s due to the onset of east Asian financial crisis, setback on the fiscal correction process, quality of fiscal adjustment, slowdown in agricultural growth affected by lower than normal monsoon years, and some slackening in the pace of structural reforms.
 - The slowdown could also be attributed to the excessive enthusiasm in the investment plans in domestic industry following deregulation.
 
 ---

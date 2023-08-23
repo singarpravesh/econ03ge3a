@@ -176,16 +176,77 @@ The Planning Commission became the exclusive theatre where economic policy was f
 
 ## Studying the PC over the decades
 
----
-
 **1950 to 1965: Questioning techniques**
+
 - The PC was founded with an idea of the time
   - International agreement on the need for planning
-  <blockquote>
+  
+<blockquote>
   in tune with the intellectual ambiance of the period which in turn reflected the state of the international economy. The Great Depression of the inter-war period had destroyed any faith in the virtues of the free market, and Keynesianism … advocated not just state intervention in demand management in capitalist economies, but the necessity of socializing investment decisions. (Patnaik 1998: 159–160)
-  </blockquote>
+</blockquote>
 
 - Soviet Union was free from the ravages of the Depression and was experiencing high growth rates which were unprecedented in human history.
+
+---
+
+- The scholars writing on planning in the 1950s did not question the idea or the necessity of planning.
+- Their research was about **How best to plan?** or **What sort of planing?**
+<blockquote>
+ ‘the goal of development was growth: the agent of development was the state and the means of development were national economic planning in the context of macro-policy instruments established at Bretton Woods.’
+</blockquote>
+
+---
+
+- The goal of planning was to promote social equality by increasing real per capita incomes.
+- The real question was **how best to do that**?
+- Most of the studies focused on **the choices made**, **the models**, **the techniques** and their **efficiency**.
+
+---
+
+**1960s and 1970s: Questioning Processes, Actors, and Interests**
+
+- The PC was the most powerful during this decade.
+- A lot of studies were done.
+- In the 1960s, many observers in India and abroad were full of praise for the work of the PC. Lewis (1963: 80) wrote that 
+<blockquote>
+Indian economic planning has – and probably deserves – the reputation of being the most experienced, sophisticated, and comprehensive of any in the non-Communist economically underdeveloped world. 
+</blockquote>
+ 
+ 
+
+---
+
+- However, the praise was not unanimous. 
+- D. R. Gadgil in a lecture in 1958 considers that the PC has failed in every function 
+<blockquote>
+‘to assess resources, formulate the plan, define its stages, appraise progress, and make related recommendations on policy and administration’ (lecture republished in Gadgil 1965: 150–172, 169)
+</blockquote>
+
+- After 10 years of planning, many scholars seemed also disappointed with the results attained and disillusioned with planning. 
+- Economists diagnosed a crisis in planning in general (Faber and Seers 1972) and in India in particular (Hanson 1966; Streeten and Lipton 1968; Namboodiripad 1974). 
+- From then on, they questioned the usefulness of planning. 
+
+---
+
+- At the end of the 1960s, the specific choices made in India were re-examined as well: **why did Indian planning focus on state-owned heavy industry at the expense of other sectors, most importantly agriculture but also education?**
+- Answers:
+  - Economic reasons like **export pessimism** and **foreign exchange constraint** (Raj and Sen 1961; Dhar 1968; Bhagwati and Chakravarty 1969).
+  - Nehru’s fervent commitment and belief in socialism (Frankel 1967, see also Schöttli 2009).
+- In the 1970s, criticisms came from all sides: it came, as could be expected, *from scholars in favour of a liberal economic policy and sceptical about planning from the beginning*, but also from *scholars who supported planning after independence, people who wanted a socialist economy* but observed that planning had not brought the expected results.  
+- For instance B.R. Shenoy (author of the book *Note of Dissent to the Second Five-year Plan* in 1955) was one of the **sceptics from the begining** wrote:
+<blockquote>
+‘There is a great need for a basic policy shift from statist planning to policies of economic liberalism.’ (Shenoy 1963: vi).
+</blockquote>
+
+
+---
+
+- Along the same line, Jagdish Bhagwati, Padma Desai, and T. N. Srinivasan, who **at first supported planning after independence, turned against it in the 1970s** and advocated a new liberalized economic policy. 
+- Leys (1996) summarizes (roughly) the position of this ‘small group of economists who opposed the postwar-social-democratic consensus’. 
+- He notes that 
+<blockquote>
+they argued that development was blocked by inflated public sectors, distorting economic controls and overemphasis on capital formation. Governments were part of the problem, not part of the solution; they were inefficient and often corrupt and hence parasitic, not stimulators of growth. The solution was to privatize the public sector, reduce the scale and scope of government spending and give up all policies, from exchange rate controls to subsidies and redistributive taxation, that altered any prices that would otherwise be set by the impersonal forces of the market. (Leys 1998: 18)
+</blockquote>
 
 # The Planning Experience in India
 

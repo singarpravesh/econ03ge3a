@@ -3,6 +3,7 @@ title: "Five Year Plans in India"
 subtitile: ECON03GE3A
 output:  
   ioslides_presentation:
+    css: mycss.css
     smaller: true
     logo: logo.png
 ---
@@ -143,13 +144,55 @@ output:
 - Growth declined to 5%
 - Vision: Faster, Sustainable and more inclusive growth
 
-# The Planning Experience in India
+# Studying the Planning Commission (1950-2014)
 
 
 ## Reference
 
 Mehrotra, S and Guichard, S (2020) *Plannning in the 20th Century and Beyond: India's Planning Commission and the NITI Aayog* Cambridge University Press 
-Chapter 13 [Plan, But Do Not Over Plan: Lessons for NITI Aayog](4.PlanningInIndia/pranabSen.pdf)
+[Chapter 2: From Economists to Historians: Studying the Planning Commission, 1950–2014](4.PlanningInIndia/pranabSen.pdf)
+
+## The Planning Commission (PC) as an institution
+
+- What did it do? How did it work?
+- Created in 1951 under the influence of Nehru.
+- Extra constitutional, non-statutory body (not founded by an Act of Parliament by a resolution of the cabinet).
+- In charge of preparing five year plans.
+
+---
+
+
+- Prof. Sunil Khilnani in his book *Idea of India* remarks
+<blockquote>
+The Planning Commission became the exclusive theatre where economic policy was formulated. The subject was removed from parliament and the cabinet – they were now merely informed of decisions taken by the small cohort of experts. The members of the Planning Commission were by no means all economists, but they were chosen by Nehru for their broad agreement with his political project: committed to ‘socialistic’ and reformist ideals, in the Indianized version of social democracy, and above all to a scepticism about the market and a belief that the state had to take responsibility for allocating resources in the economy. (Khilnani 1997: 85–86)
+</blockquote>
+
+---
+
+- IN 1950, K.N. Raj (at the age of 26) was the only professional economist in the PC (Krishnakumar 2010).
+- The sanctioned staff strength increased from 244 in 1951-52 to 1,131 in 1963-64.
+- The expenditure increased from INR 8.65 lakhs in 1950-51 to INR 59.90 lakhs in 1963-64.
+- The staff strength remained nearly the same when the PC was dissolved in 2015.
+
+## Studying the PC over the decades
+
+---
+
+**1950 to 1965: Questioning techniques**
+- The PC was founded with an idea of the time
+  - International agreement on the need for planning
+  <blockquote>
+  in tune with the intellectual ambiance of the period which in turn reflected the state of the international economy. The Great Depression of the inter-war period had destroyed any faith in the virtues of the free market, and Keynesianism … advocated not just state intervention in demand management in capitalist economies, but the necessity of socializing investment decisions. (Patnaik 1998: 159–160)
+  </blockquote>
+
+- Soviet Union was free from the ravages of the Depression and was experiencing high growth rates which were unprecedented in human history.
+
+# The Planning Experience in India
+
+## Reference
+
+Mehrotra, S and Guichard, S (2020) *Plannning in the 20th Century and Beyond: India's Planning Commission and the NITI Aayog* Cambridge University Press 
+[Chapter 13: Plan, But Do Not Over Plan: Lessons for NITI Aayog](4.PlanningInIndia/pranabSen.pdf)
 
 
 ## The Planning Experience in India

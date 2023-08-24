@@ -162,14 +162,14 @@ Mehrotra, S and Guichard, S (2020) *Plannning in the 20th Century and Beyond: In
 ---
 
 
-- Prof. Sunil Khilnani in his book *Idea of India* remarks
+- [Prof. Sunil Khilnani](https://www.ashoka.edu.in/profile/sunil-khilnani-2/) in his book *Idea of India* remarks
 <blockquote>
 The Planning Commission became the exclusive theatre where economic policy was formulated. The subject was removed from parliament and the cabinet – they were now merely informed of decisions taken by the small cohort of experts. The members of the Planning Commission were by no means all economists, but they were chosen by Nehru for their broad agreement with his political project: committed to ‘socialistic’ and reformist ideals, in the Indianized version of social democracy, and above all to a scepticism about the market and a belief that the state had to take responsibility for allocating resources in the economy. (Khilnani 1997: 85–86)
 </blockquote>
 
 ---
 
-- IN 1950, K.N. Raj (at the age of 26) was the only professional economist in the PC (Krishnakumar 2010).
+- IN 1950, [K.N. Raj](https://en.wikipedia.org/wiki/K._N._Raj) (at the age of 26) was the only professional economist in the PC (Krishnakumar 2010).
 - The sanctioned staff strength increased from 244 in 1951-52 to 1,131 in 1963-64.
 - The expenditure increased from INR 8.65 lakhs in 1950-51 to INR 59.90 lakhs in 1963-64.
 - The staff strength remained nearly the same when the PC was dissolved in 2015.
@@ -207,7 +207,8 @@ The Planning Commission became the exclusive theatre where economic policy was f
 
 - The PC was the most powerful during this decade.
 - A lot of studies were done.
-- In the 1960s, many observers in India and abroad were full of praise for the work of the PC. Lewis (1963: 80) wrote that 
+- In the 1960s, many observers in India and abroad were full of praise for the work of the PC. 
+- Lewis (1963: 80) wrote that 
 <blockquote>
 Indian economic planning has – and probably deserves – the reputation of being the most experienced, sophisticated, and comprehensive of any in the non-Communist economically underdeveloped world. 
 </blockquote>
@@ -217,7 +218,7 @@ Indian economic planning has – and probably deserves – the reputation of bei
 ---
 
 - However, the praise was not unanimous. 
-- D. R. Gadgil in a lecture in 1958 considers that the PC has failed in every function 
+- [D. R. Gadgil](https://en.wikipedia.org/wiki/Dhananjay_Ramchandra_Gadgil) in a lecture in 1958 considers that the PC has failed in every function 
 <blockquote>
 ‘to assess resources, formulate the plan, define its stages, appraise progress, and make related recommendations on policy and administration’ (lecture republished in Gadgil 1965: 150–172, 169)
 </blockquote>
@@ -233,7 +234,7 @@ Indian economic planning has – and probably deserves – the reputation of bei
   - Economic reasons like **export pessimism** and **foreign exchange constraint** (Raj and Sen 1961; Dhar 1968; Bhagwati and Chakravarty 1969).
   - Nehru’s fervent commitment and belief in socialism (Frankel 1967, see also Schöttli 2009).
 - In the 1970s, criticisms came from all sides: it came, as could be expected, *from scholars in favour of a liberal economic policy and sceptical about planning from the beginning*, but also from *scholars who supported planning after independence, people who wanted a socialist economy* but observed that planning had not brought the expected results.  
-- For instance B.R. Shenoy (author of the book *Note of Dissent to the Second Five-year Plan* in 1955) was one of the **sceptics from the begining** wrote:
+- For instance [B.R. Shenoy](https://swarajyamag.com/economy/b-r-shenoy-a-forgotten-economist-and-what-modi-can-learn-from-him) (author of the book *Note of Dissent to the Second Five-year Plan* in 1955) was one of the **sceptics from the beginning** wrote:
 <blockquote>
 ‘There is a great need for a basic policy shift from statist planning to policies of economic liberalism.’ (Shenoy 1963: vi).
 </blockquote>
@@ -251,7 +252,7 @@ they argued that development was blocked by inflated public sectors, distorting 
 
 ---
 
-- Bhagwati and Desai in 1970, in their book *Planning for Industrialization*, argue that, at least since the beginning of the second plan period in 1956, Indian planning ***‘fell into the trap of excessively detailed, physical targets oriented planning’***, although India already had sufficient economic and administrative infrastructure to make a much more efficient planning possible. 
+- [Bhagwati](https://en.wikipedia.org/wiki/Jagdish_Bhagwati) and [Desai](https://en.wikipedia.org/wiki/Padma_Desai) in 1970, in their book *Planning for Industrialization*, argue that, at least since the beginning of the second plan period in 1956, Indian planning ***‘fell into the trap of excessively detailed, physical targets oriented planning’***, although India already had sufficient economic and administrative infrastructure to make a much more efficient planning possible. 
 - Jagdish Bhagwati pursues the same type of argument in his 1974 book with T. N. Srinivasan.
 <blockquote>
 India’s foreign trade regime, in conjunction with domestic licensing policies in the industrial sector, led to economic inefficiencies and impaired her economic performance.… The policy framework was detrimental, on balance, to the growth of the economy by adversely influencing export performance, by wasteful interindustrial and inter-firm allocation of resources, by permitting and encouraging  expansion of excess capacity and by blunting competition and hence  the incentives  for cost-consciousness and quality-improvement. The effects on  savings and  research and development expenditures were, at best, ambiguous and  cannot  plausibly be cited as having offset these inefficiencies. (Bhagwati and  Srinivasan  1974: 245)
@@ -272,7 +273,7 @@ India’s foreign trade regime, in conjunction with domestic licensing policies 
 **1980s: Questioning the State and Planning**
 
 - The 1980s saw a **‘shift from planning the economy to management of the economy’** (Kurien 1996: 10) to **‘freeing the economy’** as the subtitle of Jagdish Bhagwati’s book *India in Transition (1993)* indicates.
-- During the 1980s, economists continued to assess how successful planning had been in furthering the development of the country (Gupta [1989] ,Sukhamoy Chakravarty [1987]).
+- During the 1980s, economists continued to assess how successful planning had been in furthering the development of the country (Gupta [1989] ,[Sukhamoy Chakravarty](https://en.wikipedia.org/wiki/Sukhamoy_Chakraborty) [1987]).
 - Byres (a Marxist economist) considers that the literature
 <blockquote>
 ‘presented a virulent critique of planning, which was represented as simply the institutionalised means whereby the state pursued its predation, extended and reproduced its massive inefficiencies, and gave rise to growing and deeply entrenched rent seeking’ (Byres 1997a: 1)
@@ -322,9 +323,40 @@ India’s foreign trade regime, in conjunction with domestic licensing policies 
 the debate on the need for industrialisation … was politically resolved by successfully constituting planning as a domain outside the ‘squabbles and conflicts of politics’. As early as the 1940s, planning had emerged as a crucial institutional modality by which the state would determine the material allocation of productive resources within the nation: a modality of political power constituted outside the immediate political process itself. (Chatterjee 1997: 275–276)
 </blockquote>
 
-- 
+- According to other scholars, the main intent of adopting planning was not to build *socialism* but to build capitalism on behalf of the bourgeoisie.
+- According to Patnaik (1994);
+<blockquote>
+ ‘the class-configuration which prevailed, upon which industrial capitalism was to develop, dictated in broad terms a certain course of action, and the Mahalanobis strategy fitted in with this’.
+</blockquote>
 
-# The Planning Experience in India
+---
+
+**2000s: Re-questioning the Beginnings**
+
+- Review of planning’s achievements or failures continued.
+- This led to a rise in the debates on the obsolescence of *planning* and the *PC*.
+- The economist Amaresh Bagchi (2007) asks *if there is a role for centralized planning in a market economy such as the one of India after liberalization?*
+  - Centralized planning according to him is needed:
+<blockquote>  
+The reason is twofold. One, when resources happen to be limited – and that lies at the heart of the economic problem of choice – given the objectives, actions must be guided by a well-designed plan.… Two, it has to be recognised that even in a market economy that state has to play a vital role as a facilitator but also as a provider of basic infrastructure, fiscal, social and financial. (Bagchi 2007: 93) 
+</blockquote>
+
+---
+
+- Bagchi (2007: 93) underlines the necessity to reform three practices: 
+  1. ‘the practice of classifying expenditures in government budget under “plan and non-plan”’; 
+  2. ‘inadequate fiscal space of the states for fulfilling the objectives of the plans while major responsibilities for plan implementation are devolved on them’; and 
+  3. ‘the system of intergovernmental transfers that is supposed to help address one of the basic objectives of planning, i.e. balanced regional growth’.
+
+- There was also criticisms which were not against planning in general but on how planning was done and implemented. 
+- In the 1960s, many studies appeared describing the status of the commission, its aim, and its organizational arrangements. 
+- They often emphasized that planning had to deal with important limitations: 
+  - the fact that most of India’s economy was in private hands (Hanson 1966: 3) or ‘controlled by [a] small, group of high capitalists’ (Gadgil 1965: 284), 
+  - that planning was prepared by the centre but had to be implemented by the states (Lewis 1963), and 
+  - that planning was too centralized. 
+- These elements greatly diminished the planning grip, the first mainly in the drawing of the plan and the last two in its implementation (Lewis 1963: 108).
+
+# Plan, But Do Not Over Plan: Lessons for NITI Aayog
 
 ## Reference
 

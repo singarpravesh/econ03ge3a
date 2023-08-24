@@ -182,10 +182,26 @@ The Planning Commission became the exclusive theatre where economic policy was f
   - International agreement on the need for planning
   
 <blockquote>
-  in tune with the intellectual ambiance of the period which in turn reflected the state of the international economy. The Great Depression of the inter-war period had destroyed any faith in the virtues of the free market, and Keynesianism … advocated not just state intervention in demand management in capitalist economies, but the necessity of socializing investment decisions. (Patnaik 1998: 159–160)
+  in tune with the intellectual ambiance of the period which in turn reflected the state of the international economy. The Great Depression of the inter-war period had destroyed any faith in the virtues of the free market, and Keynesianism … advocated not just state intervention in demand management in capitalist economies, but the necessity of socializing investment decisions. ([Prabhat Patnaik](https://en.wikipedia.org/wiki/Prabhat_Patnaik) 1998: 159–160)
 </blockquote>
 
 - Soviet Union was free from the ravages of the Depression and was experiencing high growth rates which were unprecedented in human history.
+
+---
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+readxl::read_excel("4.PlanningInIndia/mpd2020.xlsx", sheet = "Full data") -> mpd
+library(tidyverse)
+mpd %>% 
+  filter(year %in% 1920:1960, country %in% c("Former USSR",
+                                             "India",
+                                             "United States"))  %>% 
+  ggplot(aes(x = year, y = gdppc))+
+  geom_path(aes(col  =country))+
+  ggtitle(label = "GDP per capita")
+```
+
+Source: [Maddison Project Database 2020](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020)
 
 ---
 

@@ -203,7 +203,11 @@ tribble(
 
 ---
 
-![](5.DemographicTransition/Figure7.PNG){width=700px}
+![](5.DemographicTransition/Figure7.PNG)
+
+---
+
+![](5.DemographicTransition/Figure8.PNG){width=700px}
 
 ---
 

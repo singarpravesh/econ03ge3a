@@ -1,7 +1,5 @@
 ---
 title: "Education"
-subtitle: ECON03GE3A
-author: Pravesh Tamang
 output:  
   ioslides_presentation:
     css: mycss.css
@@ -14,6 +12,7 @@ editor_options:
 ## References
 - Chapter 5: [The Centrality of Education](6.Education/sen.pdf), in An Uncertain Glory: India and its Contradictions, by Jean Dreze and Amartya Sen, 2013.
 - The [National Education Policy 2020](6.Education/nep.pdf) https://doi.org/10.1002/pa.2500 Journal of Public Affairs (2020)
+- CESS-RSEPPG Research Brief [Private and Public Expenditure on Education in India: Trend over last Seven Decades](6.Education/brief.pdf) by Venkatanarayana Motkuri and E. Revathi (2020) Centre for Economic and Social Studies (ICSSR, Ministry of Education, Government of India)
 
 # The Centrality of Education
 
@@ -257,9 +256,8 @@ tibble(
 - Other challenges.
 
 
-# Other education policies
+## Other education policies
 
----
 
 - District Primary Education  Programme (DPEP) 1993
   - Universal primary education
@@ -272,4 +270,38 @@ tibble(
   - Provide strategic funding to higher education institutions
   - Target to raise the enrollment ratio to 32% by 2017.
   
+# Private and Public Expenditure on Education in India: Trend over last Seven Decades
+
+---
+
+![](6.Education/table1.JPG)
+
+---
+
+![](6.Education/table2.JPG)
+
+---
+
+![](6.Education/figure1.JPG)
+
+---
+
+![](6.Education/figure2.JPG)
+
+---
+
+![](6.Education/figure3.JPG)
+
+---
+
+![](6.Education/figure4.JPG)
+
+---
+
+![](6.Education/table3.JPG)
+
+
+
+
+
 
